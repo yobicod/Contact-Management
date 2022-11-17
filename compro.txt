@@ -1,0 +1,25 @@
+Project Contact Management
+พัฒนาด้วย C programming เพียวๆ
+ความสามารถ
+-เก็บ ชื่อ ที่อยู่ เบอร์โทร อีเมล
+1.เพิ่มรายชื่อผู้ติดต่อ
+2.ลบรายชื่อผู้ติดต่อ
+3.เเก้ไขรายชื่อ
+4.ค้นหารายชื่อ
+5.เเสดงรายชื่อทั้งหมดที่เก็บไว้
+
+ใช้ Header file ต่างๆ ดังนี้
+#include<stdio.h>
+
+#include<conio.h>
+
+#include<string.h>
+
+#include<process.h>
+
+#include<stdlib.h>
+
+#include<dos.h>
+
+ใช้ switch ในการเลือกการทํางานเป็น case ไป
+การเก็บข้อมูลที่ใส่เข้าไปอาจะเป็น .dll หรือ .txt
